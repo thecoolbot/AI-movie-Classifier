@@ -1,0 +1,236 @@
+Evaluation Metrics:
+Hamming Loss: 0.0118
+Subset Accuracy: 0.0846
+F1 Score (Micro): 0.4252
+F1 Score (Macro): 0.0328
+F1 Score (Weighted): 0.3720
+
+Classification Report:
+                    precision    recall  f1-score   support
+
+            Action       0.63      0.15      0.24       954
+         Adventure       0.63      0.17      0.27       692
+         Animation       0.79      0.11      0.19       806
+         Biography       0.60      0.03      0.06       388
+          Children       0.00      0.00      0.00       199
+            Comedy       0.67      0.61      0.64      3754
+             Crime       0.54      0.02      0.05       616
+       Documentary       0.70      0.24      0.35      1036
+             Drama       0.70      0.66      0.68      3990
+            Family       0.39      0.02      0.04       538
+           Fantasy       0.67      0.15      0.25       853
+        Historical       0.74      0.34      0.46       484
+           History       0.77      0.11      0.19       494
+            Horror       0.84      0.39      0.53      1037
+             Music       0.00      0.00      0.00         1
+           Musical       0.63      0.08      0.14       625
+           Mystery       0.57      0.09      0.15       437
+           Romance       0.65      0.22      0.32      1725
+   Romantic Comedy       0.50      0.02      0.04       160
+   Science Fiction       0.80      0.23      0.36       775
+        Short Film       0.86      0.37      0.52       656
+       Silent Film       0.89      0.03      0.06       255
+            Sports       1.00      0.00      0.01       339
+          Thriller       0.67      0.38      0.48      1898
+ Unknown_/m/014dsx       0.00      0.00      0.00         3
+ Unknown_/m/014g0t       0.00      0.00      0.00         1
+ Unknown_/m/016vh2       0.00      0.00      0.00        13
+  Unknown_/m/018jz       0.00      0.00      0.00         2
+ Unknown_/m/018sjn       0.00      0.00      0.00         0
+ Unknown_/m/01fc50       0.00      0.00      0.00         5
+ Unknown_/m/01hw54       0.00      0.00      0.00         0
+ Unknown_/m/01hwc6       0.00      0.00      0.00        12
+ Unknown_/m/01j28z       0.00      0.00      0.00         6
+ Unknown_/m/01j6zc       0.00      0.00      0.00         2
+ Unknown_/m/01lmb_       0.00      0.00      0.00         3
+ Unknown_/m/01nfk7       0.00      0.00      0.00         1
+ Unknown_/m/01p3vp       0.00      0.00      0.00         1
+ Unknown_/m/01pxyy       0.00      0.00      0.00         0
+  Unknown_/m/01qpc       0.00      0.00      0.00         0
+Unknown_/m/01qs3y7       0.00      0.00      0.00         1
+  Unknown_/m/01rbb       0.00      0.00      0.00         5
+ Unknown_/m/01tz3c       0.00      0.00      0.00         1
+ Unknown_/m/01w1sx       0.00      0.00      0.00         3
+Unknown_/m/01xpr_s       0.00      0.00      0.00         0
+Unknown_/m/01xpvb7       0.00      0.00      0.00         9
+ Unknown_/m/01xtwm       0.00      0.00      0.00         3
+  Unknown_/m/01zhp       0.00      0.00      0.00        38
+ Unknown_/m/01zxzp       0.00      0.00      0.00         2
+ Unknown_/m/021pxw       0.00      0.00      0.00         1
+ Unknown_/m/022wy7       0.00      0.00      0.00         0
+ Unknown_/m/023pxm       0.00      0.00      0.00         1
+Unknown_/m/026v1nw       0.00      0.00      0.00         8
+Unknown_/m/026zf_v       0.00      0.00      0.00         0
+ Unknown_/m/02cqmh       0.00      0.00      0.00         5
+Unknown_/m/02djzlc       0.00      0.00      0.00         7
+ Unknown_/m/02fcct       0.00      0.00      0.00         1
+  Unknown_/m/02gk5       0.00      0.00      0.00         5
+  Unknown_/m/02jfc       0.00      0.00      0.00         1
+  Unknown_/m/02m4t       0.00      0.00      0.00         7
+ Unknown_/m/02n4lw       0.00      0.00      0.00        83
+Unknown_/m/02nxfrh       0.00      0.00      0.00        27
+Unknown_/m/02pfsdf       0.00      0.00      0.00         1
+Unknown_/m/02prgwj       0.00      0.00      0.00         3
+Unknown_/m/02qqtlj       0.00      0.00      0.00         6
+Unknown_/m/02qvnvs       0.00      0.00      0.00        27
+Unknown_/m/02qyzxg       0.00      0.00      0.00         1
+Unknown_/m/02r5rng       0.00      0.00      0.00         1
+Unknown_/m/02rcm2r       0.00      0.00      0.00         0
+Unknown_/m/02rjkzy       0.00      0.00      0.00         1
+ Unknown_/m/02vn3k       0.00      0.00      0.00         4
+Unknown_/m/02wtdkf       0.00      0.00      0.00        28
+ Unknown_/m/02xh8t       0.00      0.00      0.00         4
+ Unknown_/m/02z0t_       0.00      0.00      0.00         0
+ Unknown_/m/02z8vz       0.00      0.00      0.00         0
+ Unknown_/m/0399b7       0.00      0.00      0.00         0
+Unknown_/m/03bt31n       0.00      0.00      0.00         0
+  Unknown_/m/03g3w       0.00      0.00      0.00        86
+Unknown_/m/03gq4d1       0.00      0.00      0.00         0
+Unknown_/m/03jp56q       0.00      0.00      0.00         0
+Unknown_/m/03jp5g4       0.00      0.00      0.00         2
+Unknown_/m/03jp5h0       0.00      0.00      0.00         1
+ Unknown_/m/03mqtr       0.00      0.00      0.00       127
+ Unknown_/m/03rzvv       0.00      0.00      0.00        13
+ Unknown_/m/03v6qx       0.00      0.00      0.00         6
+ Unknown_/m/04cb4x       0.00      0.00      0.00         7
+Unknown_/m/04dn71w       0.00      0.00      0.00        16
+ Unknown_/m/04fy52       0.00      0.00      0.00         2
+Unknown_/m/04gghpk       0.00      0.00      0.00         3
+Unknown_/m/04p5fxn       0.00      0.00      0.00        19
+  Unknown_/m/04rlf       1.00      0.01      0.03        68
+ Unknown_/m/04tk13       0.00      0.00      0.00         2
+ Unknown_/m/04zgj2       0.00      0.00      0.00         2
+Unknown_/m/0520_cy       0.00      0.00      0.00         6
+ Unknown_/m/0520lz       0.00      0.00      0.00         3
+ Unknown_/m/05453r       0.00      0.00      0.00         0
+ Unknown_/m/0572q3       0.00      0.00      0.00         0
+ Unknown_/m/0594kx       0.00      0.00      0.00         1
+ Unknown_/m/05b8xy       0.00      0.00      0.00         0
+Unknown_/m/05bdtfl       0.00      0.00      0.00         0
+Unknown_/m/05bg8cj       0.00      0.00      0.00         2
+Unknown_/m/05c3mp2       0.00      0.00      0.00         2
+  Unknown_/m/05h0n       0.00      0.00      0.00         1
+  Unknown_/m/05jhg       0.00      0.00      0.00         3
+ Unknown_/m/05r6jc       0.00      0.00      0.00         3
+Unknown_/m/05spfln       0.00      0.00      0.00         0
+  Unknown_/m/05svk       0.00      0.00      0.00         0
+  Unknown_/m/05swd       0.00      0.00      0.00        12
+ Unknown_/m/05tnmt       0.00      0.00      0.00         6
+ Unknown_/m/0604r_       0.00      0.00      0.00         2
+ Unknown_/m/069x_s       0.00      0.00      0.00         6
+ Unknown_/m/06_vsc       0.00      0.00      0.00         3
+  Unknown_/m/06cvj       0.60      0.03      0.06       442
+Unknown_/m/06pqf08       0.00      0.00      0.00         1
+Unknown_/m/06w2n3t       0.00      0.00      0.00         0
+  Unknown_/m/06www       0.00      0.00      0.00         8
+  Unknown_/m/06ymb       0.00      0.00      0.00         0
+  Unknown_/m/070yc       0.00      0.00      0.00         1
+ Unknown_/m/07ftpb       0.00      0.00      0.00         0
+ Unknown_/m/07k67c       0.00      0.00      0.00         5
+  Unknown_/m/07s2s       0.00      0.00      0.00         9
+ Unknown_/m/07y0lv       0.00      0.00      0.00         2
+  Unknown_/m/084r0       0.00      0.00      0.00         2
+ Unknown_/m/08kh3l       0.00      0.00      0.00         0
+ Unknown_/m/08w0_f       0.00      0.00      0.00         2
+ Unknown_/m/0949yv       0.00      0.00      0.00         1
+ Unknown_/m/0955rx       0.00      0.00      0.00         0
+  Unknown_/m/095bb       0.00      0.00      0.00        20
+  Unknown_/m/096h3       0.00      0.00      0.00         1
+Unknown_/m/09glv8x       0.00      0.00      0.00         8
+  Unknown_/m/09kqc       0.00      0.00      0.00         0
+ Unknown_/m/09n5t_       0.00      0.00      0.00        24
+  Unknown_/m/09swn       0.00      0.00      0.00         1
+ Unknown_/m/09tvt3       0.00      0.00      0.00         1
+ Unknown_/m/0b5_s_       0.00      0.00      0.00         0
+Unknown_/m/0b7z1vt       0.00      0.00      0.00         4
+Unknown_/m/0bbctgg       0.00      0.00      0.00         0
+  Unknown_/m/0btmb       0.50      0.06      0.11        17
+ Unknown_/m/0bwgnb       0.00      0.00      0.00        18
+Unknown_/m/0bx6ch9       0.00      0.00      0.00         0
+ Unknown_/m/0bxdv5       0.00      0.00      0.00         1
+  Unknown_/m/0bxg3       0.00      0.00      0.00         7
+Unknown_/m/0c031k6       0.00      0.00      0.00         1
+ Unknown_/m/0clz1b       0.00      0.00      0.00        25
+Unknown_/m/0cq22ds       0.00      0.00      0.00         0
+ Unknown_/m/0dgvt5       0.00      0.00      0.00         0
+ Unknown_/m/0f0jjz       0.00      0.00      0.00         3
+ Unknown_/m/0ftnl_       0.00      0.00      0.00         1
+ Unknown_/m/0fztc6       0.00      0.00      0.00        13
+  Unknown_/m/0g2k1       0.00      0.00      0.00         1
+ Unknown_/m/0g576c       0.00      0.00      0.00         1
+Unknown_/m/0g9psvk       0.00      0.00      0.00         4
+Unknown_/m/0g9yrf1       0.00      0.00      0.00         0
+Unknown_/m/0g9zb16       0.00      0.00      0.00         1
+Unknown_/m/0gfc_2y       0.00      0.00      0.00         0
+ Unknown_/m/0gsy3b       0.00      0.00      0.00        55
+Unknown_/m/0h1l_48       0.00      0.00      0.00         0
+  Unknown_/m/0h9qh       1.00      0.33      0.50        15
+  Unknown_/m/0hc1z       0.00      0.00      0.00         6
+Unknown_/m/0hh_j8m       0.00      0.00      0.00         4
+Unknown_/m/0hj3m_6       0.00      0.00      0.00        16
+Unknown_/m/0hj3m_k       0.00      0.00      0.00         1
+Unknown_/m/0hj3mry       0.00      0.00      0.00         7
+Unknown_/m/0hj3mt_       0.00      0.00      0.00         0
+Unknown_/m/0hj3mtp       0.00      0.00      0.00         3
+Unknown_/m/0hj3mtv       0.00      0.00      0.00         9
+Unknown_/m/0hj3mvm       0.00      0.00      0.00         3
+Unknown_/m/0hj3mvs       0.00      0.00      0.00         6
+Unknown_/m/0hj3mw3       0.00      0.00      0.00         7
+Unknown_/m/0hj3mwf       0.00      0.00      0.00         2
+Unknown_/m/0hj3mx2       0.00      0.00      0.00         4
+Unknown_/m/0hj3mx7       0.00      0.00      0.00         2
+Unknown_/m/0hj3mxk       0.00      0.00      0.00         1
+Unknown_/m/0hj3mxr       0.00      0.00      0.00        20
+Unknown_/m/0hj3my6       0.00      0.00      0.00         2
+Unknown_/m/0hj3mzj       0.00      0.00      0.00         5
+Unknown_/m/0hj3mzv       0.00      0.00      0.00         1
+Unknown_/m/0hj3n0k       0.00      0.00      0.00        38
+Unknown_/m/0hj3n0q       0.00      0.00      0.00         2
+Unknown_/m/0hj3n11       0.00      0.00      0.00         0
+Unknown_/m/0hj3n1j       0.00      0.00      0.00         2
+Unknown_/m/0hj3n1x       0.00      0.00      0.00         1
+Unknown_/m/0hj3n21       0.00      0.00      0.00         3
+Unknown_/m/0hj3n2_       0.00      0.00      0.00         2
+Unknown_/m/0hj3n34       0.00      0.00      0.00        15
+Unknown_/m/0hj3n3b       0.00      0.00      0.00         2
+Unknown_/m/0hj3n3h       0.00      0.00      0.00         5
+Unknown_/m/0hj3n3n       0.00      0.00      0.00         1
+Unknown_/m/0hj3n3v       0.00      0.00      0.00         1
+Unknown_/m/0hj3n40       0.00      0.00      0.00         0
+Unknown_/m/0hj3n4h       0.00      0.00      0.00         7
+Unknown_/m/0hj3n4v       0.00      0.00      0.00         2
+Unknown_/m/0hj3n57       0.00      0.00      0.00         1
+Unknown_/m/0hj3n5l       0.00      0.00      0.00        19
+Unknown_/m/0hj3n5r       0.00      0.00      0.00         0
+Unknown_/m/0hj3n5y       0.00      0.00      0.00         7
+Unknown_/m/0hj3n62       0.00      0.00      0.00         7
+Unknown_/m/0hj3n6r       0.00      0.00      0.00        22
+Unknown_/m/0hj3n7m       0.00      0.00      0.00         5
+Unknown_/m/0hj3n7s       0.00      0.00      0.00         3
+Unknown_/m/0hj3n7y       0.00      0.00      0.00         2
+Unknown_/m/0hj3n84       0.00      0.00      0.00         5
+Unknown_/m/0hj3n89       0.00      0.00      0.00         1
+Unknown_/m/0hj3n8h       0.00      0.00      0.00         6
+Unknown_/m/0hj3n8q       0.00      0.00      0.00         2
+Unknown_/m/0hj3n96       0.00      0.00      0.00        13
+Unknown_/m/0hj3n9k       0.00      0.00      0.00         2
+Unknown_/m/0hj3n9r       0.00      0.00      0.00         6
+Unknown_/m/0hj3nby       0.00      0.00      0.00        12
+Unknown_/m/0hj3nc2       0.00      0.00      0.00         0
+Unknown_/m/0hj3nyp       0.00      0.00      0.00        20
+  Unknown_/m/0j5nm       0.00      0.00      0.00         7
+  Unknown_/m/0jdm8       0.00      0.00      0.00        22
+  Unknown_/m/0jxxt       0.00      0.00      0.00         1
+ Unknown_/m/0kpq_x       0.00      0.00      0.00         3
+  Unknown_/m/0l13q       0.00      0.00      0.00         0
+  Unknown_/m/0lf45       0.00      0.00      0.00         1
+   Unknown_/m/0ltv       1.00      0.08      0.15        12
+Unknown_/m/0n6n298       0.00      0.00      0.00         2
+  Unknown_/m/0pybl       0.00      0.00      0.00         0
+               War       0.66      0.13      0.21      1202
+           Western       0.77      0.09      0.16       897
+
+         micro avg       0.69      0.31      0.43     26604
+         macro avg       0.09      0.02      0.03     26604
+      weighted avg       0.65      0.31      0.37     26604
+       samples avg       0.59      0.35      0.39     26604
